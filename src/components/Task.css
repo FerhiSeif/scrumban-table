@@ -1,0 +1,8 @@
+.tache-container {
+	border: solid 2px black;
+	width:90%;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+  }
