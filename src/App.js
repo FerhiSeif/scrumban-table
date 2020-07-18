@@ -5,12 +5,14 @@ import './App.css';
 
 
 const taches = [
-  { id: 1, title: "Dom-Content", responsable: "Seif", status: "To Do" },
-  { id: 2, title: "Redux", responsable: "Anis", status: "To Do" },
-  { id: 3, title: "React-Redux", responsable: "Rayed", status: "Doing" },
-  { id: 4, title: "React", responsable: "Sam", status: "Doing" },
-  { id: 5, title: "Redux", responsable: "chaymas", status: "Test" },
-  { id: 5, title: "Redux", responsable: "chaymas", status: "Done" }
+  { id: 1, title: "T330", responsable: "Seif", status: "To Do" },
+  { id: 2, title: "T329", responsable: "Anis", status: "To Do" },
+  { id: 3, title: "T326", responsable: "Rayed", status: "Doing" },
+  { id: 4, title: "T325", responsable: "Sam", status: "Doing" },
+  { id: 5, title: "T327", responsable: "Sam", status: "To Do" },
+  { id: 6, title: "T324", responsable: "Anis", status: "Test" },
+  { id: 6, title: "T322", responsable: "Rayed", status: "Done" },
+  { id: 6, title: "T323", responsable: "Seif", status: "Done" }
 ];
 
 const App =()=> {
